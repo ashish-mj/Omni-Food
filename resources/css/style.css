@@ -230,13 +230,14 @@ padding-top: 150px;
     width: 100%;
 }
 .meals-show li{
-    display: block;
+    display: inline-block;
     float: left;
     width: 25%;
 }
 .meal-photo{
-    width: 100%;
+    width: 24%;
     margin: 0;
+    display: inline-block;
     overflow: hidden;
     background-color: #000
 }
