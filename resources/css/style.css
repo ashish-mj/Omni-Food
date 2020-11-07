@@ -171,6 +171,11 @@ header{
     border-bottom: 2px solid #e67e22;
     transition: .1s;
 }
+
+.hero-text-box{
+padding-left: 10%;
+padding-top: 150px;
+}
 /* mobile navigation ---------------*/
 .mobile-nav-icon{
     float: right;
